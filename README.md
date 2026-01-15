@@ -95,3 +95,5 @@ vercel dev
 - **MAI committare** il file `.env` con la chiave reale
 - In produzione, limita CORS solo al dominio `pennellicinghiale.it`
 - Considera l'aggiunta di rate limiting per prevenire abusi
+
+
