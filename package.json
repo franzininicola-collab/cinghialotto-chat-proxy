@@ -1,0 +1,10 @@
+{
+  "name": "cinghialotto-chat-proxy",
+  "version": "1.0.0",
+  "description": "Proxy API serverless per il chatbot Cinghialotto",
+  "private": true,
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,17 @@
+# Dipendenze
+node_modules/
+
+# File ambiente con segreti
+.env
+.env.local
+.env.*.local
+
+# Vercel
+.vercel
+
+# Log
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
